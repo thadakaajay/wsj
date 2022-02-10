@@ -1,4 +1,4 @@
-package com.project.SpringSecurity.entities;
+package com.example.SpringSecurity.entities;
 
 import java.util.Collection;
 

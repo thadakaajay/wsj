@@ -1,11 +1,11 @@
-package com.project.SpringSecurity.repositories;
+package com.example.SpringSecurity.repositories;
 
 import java.util.Optional;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.project.SpringSecurity.entities.User;
+import com.example.SpringSecurity.entities.User;
 
 @Repository
 public interface UsersRepository extends CrudRepository<User, Integer>{

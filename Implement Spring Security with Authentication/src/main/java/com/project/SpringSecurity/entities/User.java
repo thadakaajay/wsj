@@ -1,4 +1,4 @@
-package com.project.SpringSecurity.entities;
+package com.example.SpringSecurity.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
